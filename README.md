@@ -3,7 +3,7 @@ A novel feature to do speech anti-spoofing/playback speech detection
 
 Objective
 --------------------------------------------
-Literature shows that graph signal processing (GSP) shows a better correlation between speech samples and explore more hidden information from speech than the traditional digital signal processing methods. With this motivation, we propose a novel feature based on GSP, namely, graph frequency cepstral coefficient
+Literature shows that graph signal processing (GSP) shows a better correlation between speech samples and explore more hidden information from speech than the traditional digital signal processing methods. With this motivation, we propose a novel feature based on GSP, namely, graph frequency cepstral coefficient
 (GFCC) to detect playback speech. 
 
 Basic Algorithm
