@@ -25,6 +25,6 @@ Please cite the following if our paper or code is helpful to your research.
 
 Notes
 ----------------------------------
-The codes need to be updated, please read after May 30, 2022.
+Run Run_GFCC.m to obtain the features. We use voicebox toolbox to do enframe work, readers can download this toolbox from: http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
 
 
